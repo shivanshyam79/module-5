@@ -1,5 +1,5 @@
-# NAME: HITHESHHWARAN A R
-# REG.NO: 212224040118
+# NAME: SHYAM R
+# REG.NO: 212223040200
 # EX-26-AREA-OF-RECTANGLE-USING- POINTER
 # AIM
 To write a C Program to find area of rectangle using pointer.
